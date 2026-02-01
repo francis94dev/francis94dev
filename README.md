@@ -1,10 +1,10 @@
 ### Hola, soy Francisco! 👋
 
-Soy un **Desarrollador Java Junior** apasionado por el software y los videojuegos. Actualmente estudiante en MEDAC.
+Soy un **Desarrollador Junior** apasionado por el software y los videojuegos. Actualmente estudiante en MEDAC.
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00FFA3&height=200&section=header&text=👋%20Bienvenido&fontSize=55&animation=fadeIn&fontAlignY=38&fontFamily=Orbitron" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00FFA3&height=200&section=header&text=Bienvenido%20a%20mi%20Portfolio&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Python%20%7C%20HTML/CSS%20%7C%20SQL%20%7C%20Git&descAlignY=51&descAlign=50" alt="Header" width="100%"/>
 </div>
+
 ---
 
 ### 🛠️ Tech Stack
