@@ -25,7 +25,7 @@ Soy un **Desarrollador Java Junior** apasionado por el software y los videojuego
 
 ### 🚀 Último Proyecto Destacado
 
-**[Mad Max: Wasteland Driver](https://github.com/francis94dev/Mad-Max-Java-Swing)**
+**[Mad Max: Wasteland Driver](https://github.com/francis94dev/mad-max-game-java)**
 > Videojuego 2D arcade desarrollado en Java Swing con físicas y assets propios.
 
 ---
