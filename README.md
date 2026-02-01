@@ -3,9 +3,8 @@
 Soy un **Desarrollador Java Junior** apasionado por el software y los videojuegos. Actualmente estudiante en MEDAC.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099ff&height=200&section=header&text=Bienvenido%20a%20mi%20Portfolio&fontSize=40&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Swing%20%7C%20SQL%20%7C%20Git&descAlignY=51&descAlign=50" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00FFA3&height=200&section=header&text=👋%20Bienvenido&fontSize=55&animation=fadeIn&fontAlignY=38&fontFamily=Orbitron" alt="Header" width="100%"/>
 </div>
-
 ---
 
 ### 🛠️ Tech Stack
@@ -34,10 +33,10 @@ Soy un **Desarrollador Java Junior** apasionado por el software y los videojuego
 > **Juego arcade 2D desarrollado con Java (Swing/AWT).**
 > *Proyecto final del módulo de Desarrollo de Interfaces (2º DAM).*
 
-- 🕹️ **Mecánicas:** Conducción, I.A. de persecución, colisiones y sistema de oleadas.
+- 🕹️ **Mecánicas:** Conducción, I.A. de movimiento de NPCs, colisiones y sistema de oleadas.
 - ☕ **Tech Stack:** Java 23, Swing, AWT, POO, Patrones de Diseño.
 
-
+<!--
 ---
 
 ### 📊 Mis Estadísticas en GitHub
@@ -46,7 +45,7 @@ Soy un **Desarrollador Java Junior** apasionado por el software y los videojuego
   <img src="https://github-readme-stats.vercel.app/api?username=francis94dev&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=francis94dev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
-
+-->
 ---
 
 <p align="center">
